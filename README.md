@@ -1,3 +1,4 @@
+![163236](https://user-images.githubusercontent.com/110341301/226258285-937a6f13-1c90-47bd-9cca-f03694db3fdc.jpg)
 
 <h1 align="center">Hi 👋, I'm Nguyen Van Huy</h1>
 <h3 align="center">I am Fresher Developer in VietNam</h3>
